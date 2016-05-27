@@ -1,0 +1,11 @@
+{
+  "name": "stockly",
+  "version": "0.0.0",
+  "description": "Custom stock market alerts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaron w brown",
+  "license": "ISC"
+}
